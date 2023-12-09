@@ -1,0 +1,22 @@
+{
+    "title": "Profiling And Analysis of The Car Evaluation Dataset",
+    "description": "A dataset profiling and analyzing a dataset of cars",
+    "creators": [
+    {
+    "name": "Kim, Ryan",
+    "orcid": "0009-0008-8414-4381",
+    "affiliation": "University of Illinois Urbana-Champaign"
+    }
+    ],
+    "related_identifiers": [
+    {
+    "scheme": "doi",
+    "identifier": "https://doi.org/10.5281/zenodo.10314806",
+    "relation": "cites"
+    }
+    ],
+    "access_right": "open",
+    "upload_type": "software",
+    "license": "MIT"
+    }
+    
